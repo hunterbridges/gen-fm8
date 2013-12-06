@@ -5,8 +5,6 @@ The FM8 Sega Genesis Collection brings the voices of 16-bit to your fingertips.
 You need [Native Instruments FM8](http://www.native-instruments.com/en/products/komplete/synths-samplers/fm8/pricing/)
 to use these patches.
 
-## Games
-
 --------------------------------------------------------------------
 | Game               | Total patches |  Named (#/%) | Tagged (#/%) |
 --------------------------------------------------------------------
