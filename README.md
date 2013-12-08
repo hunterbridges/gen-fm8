@@ -9,7 +9,7 @@ to use these patches.
 
 | Game               | Total patches |  Named (#/%) | Tagged (#/%) |
 | :----------------- | :------------ |  :---------- | :----------- |
-| Sonic 3 & Knuckles | 386           |  235 (60.9%) | 7 (1.8%)     |
+| Sonic 3 & Knuckles | 386           |  327 (84.7%) | 7 (1.8%)     |
 
 ## Acknowledgements
 
