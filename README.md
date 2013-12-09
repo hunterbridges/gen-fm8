@@ -12,7 +12,7 @@ matching. Hopefully that makes the voices a bit more general purpose.
 
 | Game               | Total patches |  Named (#/%) | Tagged (#/%) | Touched Up (#/%) |
 | :----------------- | :------------ |  :---------- | :----------- | :--------------- |
-| Sonic 3 & Knuckles | 386           |  386 (100%)  | 44 (11.3%)   | 44 (11.3%)       |
+| Sonic 3 & Knuckles | 386           |  386 (100%)  | 65 (16.8%)   | 65 (16.8%)       |
 
 ## Acknowledgements
 
