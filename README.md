@@ -12,7 +12,22 @@ matching. Hopefully that makes the voices a bit more general purpose.
 
 | Game               | Total patches |  Named (#/%) | Tagged (#/%) | Touched Up (#/%) |
 | :----------------- | :------------ |  :---------- | :----------- | :--------------- |
-| Sonic 3 & Knuckles | 386           |  386 (100%)  | 65 (16.8%)   | 65 (16.8%)       |
+| Sonic 3 & Knuckles | 386           |  386 (100%)  | 68 (17.6%)   | 68 (17.6%)       |
+
+## Tagging Process
+
+* Ops Tab
+    1. Equalize Volumes
+    2. Key sync
+
+* Master Tab
+    1. Match octave
+
+* Attr Tab
+    1. Author, Bank, etc
+    2. Tags
+
+* Save
 
 ## Acknowledgements
 
