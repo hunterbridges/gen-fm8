@@ -12,9 +12,9 @@ matching. Hopefully that makes the voices a bit more general purpose.
 
 | Game               | Total patches |  Named (#/%) | Tagged (#/%) | Touched Up (#/%) |
 | :----------------- | :------------ |  :---------- | :----------- | :--------------- |
-| Sonic 3 & Knuckles | 386           |  386 (100%)  | 92 (23.8%)   | 92 (23.8%)       |
+| Sonic 3 & Knuckles | 386           |  386 (100%)  | 128 (33.2%)  | 128 (33.2%)      |
 
-## Tagging Process
+## Touch-up Process
 
 * Ops Tab
     1. Equalize Volumes
@@ -26,8 +26,6 @@ matching. Hopefully that makes the voices a bit more general purpose.
 * Attr Tab
     1. Author, Bank, etc
     2. Tags
-
-* Save
 
 ## Acknowledgements
 
