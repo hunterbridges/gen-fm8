@@ -6,13 +6,14 @@ You need [Native Instruments FM8](http://www.native-instruments.com/en/products/
 to use these patches.
 
 I've done a bit of touching up to these patches, namely volume and octave
-matching. Hopefully that makes the voices a bit more general purpose.
+matching. Hopefully that makes the voices a bit more appropriate for general
+purpose use.
 
 ## Games
 
 | Game               | Total patches |  Named (#/%) | Tagged (#/%) | Touched Up (#/%) |
 | :----------------- | :------------ |  :---------- | :----------- | :--------------- |
-| Sonic 3 & Knuckles | 386           |  386 (100%)  | 245 (63.5%)  | 245 (63.5%)      |
+| Sonic 3 & Knuckles | 386           |  386 (100%)  | 262 (67.9%)  | 262 (67.9%)      |
 
 ## Touch-up Process
 
