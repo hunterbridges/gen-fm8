@@ -13,7 +13,7 @@ purpose use.
 
 | Game               | Total patches |  Named (#/%) | Tagged (#/%) | Touched Up (#/%) |
 | :----------------- | :------------ |  :---------- | :----------- | :--------------- |
-| Sonic 3 & Knuckles | 386           |  386 (100%)  | 331 (85.8%)  | 331 (85.8%)      |
+| Sonic 3 & Knuckles | 386           |  386 (100%)  | 386 (100%)   | 386 (100%)       |
 
 ## Touch-up Process
 
